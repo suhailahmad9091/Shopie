@@ -1,0 +1,9 @@
+!! Admin Login !!
+
+Username: admin
+Password: 111
+
+!! User login !!
+
+Email: suhail@gmail.com
+Password: Suhail@123 
